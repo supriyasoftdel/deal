@@ -1,0 +1,8 @@
+1. git --version   (to check version in your system)
+2. git config --global user.name"supriya sarkar" (user name)
+3. git config --global user.email supriya.sarkar@softdel.com (user email id)
+4. git clone http address----------- copy http address into specific folder
+5. git init
+6. git ls -s
+7. git commit -m "changes name"
+8.git status  (to check the status of branch)
