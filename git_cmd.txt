@@ -6,3 +6,6 @@
 6. git ls -s
 7. git commit -m "changes name"
 8.git status  (to check the status of branch)
+9. git checkout newbranch (switch into new branch)(firstly checkout)
+10. git pull
+11.git add filename.txt
